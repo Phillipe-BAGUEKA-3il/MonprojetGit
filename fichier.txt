@@ -1,3 +1,6 @@
 Contenu initial 2
+<<<<<<< HEAD
 Amélioration du contenu 
+=======
+>>>>>>> fca9d49ac6e8e4f91a9108703ca0715fb7f4f077
 
